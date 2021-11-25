@@ -1,0 +1,5 @@
+C:\Users\FIRAS\source\repos\Dimineur\libDimineur\bin\Debug\libDimineur.dll
+C:\Users\FIRAS\source\repos\Dimineur\libDimineur\bin\Debug\libDimineur.pdb
+C:\Users\FIRAS\source\repos\Dimineur\libDimineur\obj\Debug\libDimineur.csproj.CoreCompileInputs.cache
+C:\Users\FIRAS\source\repos\Dimineur\libDimineur\obj\Debug\libDimineur.dll
+C:\Users\FIRAS\source\repos\Dimineur\libDimineur\obj\Debug\libDimineur.pdb

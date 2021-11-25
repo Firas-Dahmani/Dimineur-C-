@@ -1,0 +1,10 @@
+C:\Users\FIRAS\source\repos\Dimineur\CONSOLE\bin\Debug\CONSOLE.exe.config
+C:\Users\FIRAS\source\repos\Dimineur\CONSOLE\bin\Debug\CONSOLE.exe
+C:\Users\FIRAS\source\repos\Dimineur\CONSOLE\bin\Debug\CONSOLE.pdb
+C:\Users\FIRAS\source\repos\Dimineur\CONSOLE\obj\Debug\CONSOLE.csproj.AssemblyReference.cache
+C:\Users\FIRAS\source\repos\Dimineur\CONSOLE\obj\Debug\CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\FIRAS\source\repos\Dimineur\CONSOLE\obj\Debug\CONSOLE.exe
+C:\Users\FIRAS\source\repos\Dimineur\CONSOLE\obj\Debug\CONSOLE.pdb
+C:\Users\FIRAS\source\repos\Dimineur\CONSOLE\bin\Debug\libDimineur.dll
+C:\Users\FIRAS\source\repos\Dimineur\CONSOLE\bin\Debug\libDimineur.pdb
+C:\Users\FIRAS\source\repos\Dimineur\CONSOLE\obj\Debug\CONSOLE.csproj.CopyComplete
